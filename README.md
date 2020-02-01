@@ -1,4 +1,4 @@
-### Unix emulator run shell script
+### Unix run emulator without android studio
 Download & unzip 
 ```console
 cp ~/Downloads/run-emulator-master/emulator.sh  /usr/local/bin
