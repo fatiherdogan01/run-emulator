@@ -1,5 +1,5 @@
 #!/bin/bash
-cd ~/Library/Android/sdk/tools
+cd ~/Library/Android/sdk/emulator
 name=$(./emulator -list-avds)
 eval "arr=($name)"
 if ! [[ -z "$name" ]]
